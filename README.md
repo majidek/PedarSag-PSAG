@@ -2,6 +2,17 @@
 
 
 PedarSag is a cryptocurrency like Bitcoin, It will be the first community driven cryptocurrency to show how it's easy to create a shitcoin.
+The coin will utilize the Tomochain network, the most undervalued network in current crypto market.
+Read about Tomochain here:
+https://tomochain.com/
+
+The required specifications to add to Trust Wallet:
+Network: TomoChain
+Contract Address:
+0x0eDC7351278e995a62CD34c8839f7B00960E0B9C
+Name: PedarSag
+Symbol: PSAG
+Decimals: 18
 
 ## License – Much license ⚖️
 PedarSage Core is released under the terms of the Alireza telegram group, the founder.
